@@ -2,9 +2,9 @@
 {"dg-publish":true,"permalink":"/homepage/struktur-organisasi/"}
 ---
 
-### Struktur Organisasi Ayam Chicken
+### Struktur Organisasi
 
-Struktur organisasi **Ayam Chicken** dirancang untuk mendukung pengelolaan bisnis kuliner secara efektif, efisien, dan terintegrasi melalui penerapan sistem **Decision Support System (DSS)**. Dengan adanya pembagian divisi yang jelas, setiap bagian memiliki fungsi dan tanggung jawab spesifik yang saling berkaitan dalam menjaga kelancaran operasional serta keberlanjutan usaha.
+Struktur organisasi [[Homepage/Ayam Chicken\|Ayam Chicken]] dirancang untuk mendukung pengelolaan bisnis kuliner secara efektif, efisien, dan terintegrasi melalui penerapan sistem **Decision Support System (DSS)**. Dengan adanya pembagian divisi yang jelas, setiap bagian memiliki fungsi dan tanggung jawab spesifik yang saling berkaitan dalam menjaga kelancaran operasional serta keberlanjutan usaha.
 
 Struktur ini terdiri dari enam divisi utama, yaitu **Divisi Produksi & Dapur**, **Divisi Gudang & Logistik**, **Divisi Penjualan & Marketing**, **Divisi Keuangan (Finance)**, **Divisi Sumber Daya Manusia (SDM/HRD)**, dan **Manajemen / Owner**. Masing-masing divisi menjalankan peran penting yang saling terhubung melalui sistem DSS, sehingga seluruh proses — mulai dari pengadaan bahan baku hingga pengambilan keputusan strategis — dapat dilakukan secara cepat, tepat, dan berbasis data.
 
