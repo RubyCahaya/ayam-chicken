@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/homepage/struktur-organisasi/"}
 ---
 
-### Struktur Organisasi
-
 Struktur organisasi [[Homepage/Ayam Chicken\|Ayam Chicken]] dirancang untuk mendukung pengelolaan bisnis kuliner secara efektif, efisien, dan terintegrasi melalui penerapan sistem **Decision Support System (DSS)**. Dengan adanya pembagian divisi yang jelas, setiap bagian memiliki fungsi dan tanggung jawab spesifik yang saling berkaitan dalam menjaga kelancaran operasional serta keberlanjutan usaha.
 
 Struktur ini terdiri dari enam divisi utama, yaitu **Divisi Produksi & Dapur**, **Divisi Gudang & Logistik**, **Divisi Penjualan & Marketing**, **Divisi Keuangan (Finance)**, **Divisi Sumber Daya Manusia (SDM/HRD)**, dan **Manajemen / Owner**. Masing-masing divisi menjalankan peran penting yang saling terhubung melalui sistem DSS, sehingga seluruh proses — mulai dari pengadaan bahan baku hingga pengambilan keputusan strategis — dapat dilakukan secara cepat, tepat, dan berbasis data.
@@ -27,4 +25,4 @@ Struktur ini terdiri dari enam divisi utama, yaitu **Divisi Produksi & Dapur**, 
     Divisi manajemen memiliki fungsi pengawasan dan pengambilan keputusan strategis. Melalui dashboard DSS, pemilik atau manajer dapat memantau performa setiap divisi secara menyeluruh — mulai dari stok bahan, hasil penjualan, hingga laba bersih mingguan. Dengan data yang akurat, manajemen dapat membuat keputusan yang berbasis analisis, bukan hanya intuisi, demi memastikan keberlanjutan dan pertumbuhan usaha.
     
 
-Struktur organisasi ini menggambarkan bagaimana setiap bagian dalam Ayam Chicken UMKM bekerja secara kolaboratif dan terintegrasi. Penerapan sistem **Decision Support System (DSS)** menjadi fondasi penting yang menghubungkan seluruh divisi melalui data operasional yang akurat, sehingga setiap keputusan bisnis — baik produksi, keuangan, maupun strategi penjualan — dapat diambil dengan efisien, transparan, dan tepat sasaran.
+Struktur organisasi ini menggambarkan bagaimana setiap bagian dalam Ayam Chicken UMKM bekerja secara kolaboratif dan terintegrasi. Penerapan sistem **[Decision Support System (DSS)](https://en.wikipedia.org/wiki/Decision_support_system)** menjadi fondasi penting yang menghubungkan seluruh divisi melalui data operasional yang akurat, sehingga setiap keputusan bisnis baik produksi, keuangan, maupun strategi penjualan  dapat diambil dengan efisien, transparan, dan tepat sasaran.
