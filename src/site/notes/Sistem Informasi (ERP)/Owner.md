@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/sistem-informasi-erp/owner/"}
 ---
 
-
 **Deskripsi:**  
 Mengawasi seluruh aktivitas usaha dan menggunakan Decision Support System (DSS) untuk memantau kinerja tiap divisi. Mengambil keputusan strategis terkait produksi, keuangan, dan promosi.
 

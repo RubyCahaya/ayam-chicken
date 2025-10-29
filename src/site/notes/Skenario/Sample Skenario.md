@@ -4,7 +4,7 @@
 
 ***Decision Support System (DSS)***
 
-Tujuan Sistem Decision Support System (DSS) ini dirancang untuk mendukung manajemen Ayam Chicken UMKM dalam pengambilan keputusan yang efektif dan efisien. Sistem ini memungkinkan pengelolaan stok bahan baku, penyesuaian produksi, pengaturan tenaga kerja, perencanaan strategi penjualan, pengawasan arus kas, serta pembuatan laporan keuangan. Dengan DSS, keputusan terkait pesanan harian maupun pesanan besar seperti catering dapat diambil secara cepat, tepat, dan berbasis data.
+Tujuan Sistem Decision Support System (DSS) ini dirancang untuk mendukung manajemen [[Homepage/Ayam Chicken\|Ayam Chicken]] dalam pengambilan keputusan yang efektif dan efisien. Sistem ini memungkinkan pengelolaan stok bahan baku, penyesuaian produksi, pengaturan tenaga kerja, perencanaan strategi penjualan, pengawasan arus kas, serta pembuatan laporan keuangan. Dengan DSS, keputusan terkait pesanan harian maupun pesanan besar seperti catering dapat diambil secara cepat, tepat, dan berbasis data.
 
 1.      Struktur Organisasi, Divisi Operasional, & Divisi Produksi bekerja berdasarkan stok dari gudang untuk memastikan seluruh menu harian dan pesanan catering dapat diproduksi sesuai standar kualitas. Divisi Finance mengawasi pengeluaran dan laba untuk menjaga kesehatan keuangan UMKM. Divisi SDM mengatur jadwal kerja karyawan agar operasi berjalan lancar. Divisi Marketing memanfaatkan data tren penjualan untuk merancang strategi promosi. Pemilik UMKM dapat memantau seluruh aktivitas dan mengambil keputusan strategis melalui dashboard DSS.
 
