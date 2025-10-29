@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/homepage/ayam-chicken/","tags":["gardenEntry"]}
 ---
 
-## *Ayam Chicken
+## Ayam Chicken
 
 **Ayam Chicken** adalah usaha kuliner yang dimiliki dan dikelola oleh mahasiswa, dengan spesialisasi pada _ayam geprek_ — hidangan khas Indonesia yang dikenal dengan cita rasa gurih dan sensasi pedasnya. Didirikan oleh sekelompok mahasiswa yang bersemangat, Ayam Chicken hadir dengan misi menghadirkan makanan berkualitas dengan harga terjangkau, sekaligus menumbuhkan semangat kewirausahaan di kalangan generasi muda.
 
