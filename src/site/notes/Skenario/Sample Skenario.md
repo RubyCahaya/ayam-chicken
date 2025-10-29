@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/skenario/sample-skenario/"}
 ---
 
-Decision Support System (DSS)
+***Decision Support System (DSS)***
 
 Tujuan Sistem Decision Support System (DSS) ini dirancang untuk mendukung manajemen Ayam Chicken UMKM dalam pengambilan keputusan yang efektif dan efisien. Sistem ini memungkinkan pengelolaan stok bahan baku, penyesuaian produksi, pengaturan tenaga kerja, perencanaan strategi penjualan, pengawasan arus kas, serta pembuatan laporan keuangan. Dengan DSS, keputusan terkait pesanan harian maupun pesanan besar seperti catering dapat diambil secara cepat, tepat, dan berbasis data.
 
